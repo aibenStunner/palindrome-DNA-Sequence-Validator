@@ -1,0 +1,2 @@
+# palindrome-DNA-Sequence-Validator
+A program that takes the sequence of a single DNA strand from the user and generates the complimentary base pair, hence forming the DNA helix sequence. The application further determines the palindromic section from the DNA helix sequence and highlights it. This is intended to aid researchers make staggered cuts based on the recognition of palindromic pairs. Built using the Kivy GUI framework.
